@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shijas Shamsudeen | Kerala Business Consultant & SEO Expert</title>
+  <meta name="description" content="Shijas Shamsudeen – Kerala's top digital marketing expert and SEO consultant. Helping businesses grow with powerful online strategies.">
+  <meta name="keywords" content="Shijas Shamsudeen, Kerala SEO Expert, Digital Marketing Kerala, Business Consultant Kochi, shijas.com">
+  <meta name="author" content="Shijas Shamsudeen">
+  <link rel="canonical" href="https://shijas.com/" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: #007bff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 30px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1 {
+      font-size: 2rem;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .contact {
+      background: #e9ecef;
+      padding: 20px;
+      border-radius: 8px;
+      text-align: center;
+    }
+    .contact a {
+      color: #007bff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #343a40;
+      color: white;
+    }
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 1.5rem;
+      }
+      section {
+        padding: 20px 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Shijas Shamsudeen</h1>
+  <p>Kerala’s Trusted Business Consultant & SEO Specialist</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>Welcome! I’m Shijas Shamsudeen, a leading marketing strategist and SEO expert based in Ernakulam, Kerala. With years of experience in digital branding, business growth consulting, and real estate marketing, I help businesses succeed online and offline.</p>
+
+  <h2>Services</h2>
+  <ul>
+    <li>Digital Marketing Consulting</li>
+    <li>Search Engine Optimization (SEO)</li>
+    <li>Brand Strategy & Development</li>
+    <li>Real Estate Marketing in Kerala</li>
+    <li>Social Media Growth</li>
+  </ul>
+
+  <div class="contact">
+    <h3>Let’s Work Together</h3>
+    <p>Email: <a href="mailto:shijas.mailme@gmail.com">shijas.mailme@gmail.com</a></p>
+    <p>Phone: <a href="tel:+917909100000">+91 79091 00000</a></p>
+    <p>Instagram: <a href="https://www.instagram.com/shijas_shamsudeen" target="_blank">@shijas_shamsudeen</a></p>
+  </div>
+</section>
+
+<footer>
+  &copy; 2025 Shijas Shamsudeen. All rights reserved.
+</footer>
+
+</body>
+</html>
